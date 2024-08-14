@@ -1,2 +1,2 @@
 # Controle-Pendulo
-This repository is to make available our advances in the control of pendulum systems
+Este repositório será utilizado para disponibilizar nossos avanços nos estudos de controle de sistemas de controle, mais especificamente referente ao pêndulo simples. 
